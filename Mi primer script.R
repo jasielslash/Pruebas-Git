@@ -1,16 +1,13 @@
 #mri primer script en R
 a<-10
 a^2
+a^2-a
 
 sz<-b+c
 
 
 b<-"dadsadmnv"
 c<-"nojwnvonwkdcmwkdvcmdñ"
+b-c
 
-
-#jajaja no inventes
-#Ya no hagas mas cambios
-#jijiji lo borré
-
-
+#Este es el trabajo final 
