@@ -8,3 +8,4 @@ sz<-b+c
 b<-"dadsadmnv"
 c<-"nojwnvonwkdcmwkdvcmdñ"
 
+#jijijiji lo cambié
