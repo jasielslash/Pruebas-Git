@@ -9,7 +9,7 @@ b<-"dadsadmnv"
 c<-"nojwnvonwkdcmwkdvcmdñ"
 
 
-#jajaja no inventes
+#jijiji lo borré
 
 
 
