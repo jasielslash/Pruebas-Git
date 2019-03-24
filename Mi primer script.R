@@ -8,4 +8,8 @@ sz<-b+c
 b<-"dadsadmnv"
 c<-"nojwnvonwkdcmwkdvcmdñ"
 
+
 #jajaja no inventes
+
+
+
